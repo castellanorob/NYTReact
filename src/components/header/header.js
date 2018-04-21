@@ -5,7 +5,7 @@ const Header = () => (
     <div className="jumbotron jumbotron-fluid">
  <div className="container">
    <h1 classNameName="display-4">New York Times</h1>
-   <p className="lead">Scrape it, Scrape it real good!</p>
+   <p className="lead">It's real news!</p>
  </div>
 </div>
 )

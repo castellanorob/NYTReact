@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Header />
-        <p>test test</p>
+        <p>Content goes here...eventually.</p>
 
       </Wrapper>
     );
